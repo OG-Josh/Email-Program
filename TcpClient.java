@@ -13,8 +13,8 @@ import java.net.Socket;
 *  Sends the second sentence to the server.
 *  Receives a second response from the server and displays it.
 *  Closes the socket and exits.
-*  author: Michael Fahy
-*  Email:  fahy@chapman.edu
+*  author: Josh Y
+*  Email:  joyang@chapman.edu
 *  Date:  2/17/2021
 *  version: 3.1
 */
