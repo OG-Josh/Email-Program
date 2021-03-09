@@ -14,7 +14,7 @@ import java.net.Socket;
 *  Closes the socket connection.
 *  author: Josh Y
 *  Email:  joyang@chapman.edu
-*  Date:  9/12/2020
+*  Date:  2/17/2020
 *  version: 2.0
 */
 
