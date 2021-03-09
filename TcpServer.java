@@ -12,10 +12,9 @@ import java.net.Socket;
 *  Receives a second line of input from a TCP client.
 *  Returns an upper case version of the line to the client.
 *  Closes the socket connection.
-*  author: Michael Fahy
-*  ID:  14508
-*  Email:  fahy@chapman.edu
-*  Date:  9/12/2017
+*  author: Josh Y
+*  Email:  joyang@chapman.edu
+*  Date:  9/12/2020
 *  version: 2.0
 */
 
